@@ -14,7 +14,7 @@ What factors contribute to undergraduate's life satisfaction?
  - **Q6-How Satisfied You are with your Student Life ?** (y-axis)
  - Q7-How much effort do you make to intereact with others ?
 
-Need to remove:
+Columns Removed from Dataframe:
  - Career
  - Citizenship
  - Nationality
