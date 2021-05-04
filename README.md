@@ -1,4 +1,4 @@
-# Infofromation Visalization Project Breakdown: College Satisfaction
+# Information Visualization Project Breakdown: College Satisfaction
 
 ## Research Question: 
 What factors contribute to undergraduate's life satisfaction?
