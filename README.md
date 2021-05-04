@@ -1,9 +1,15 @@
-# InfoVisProject
+# Infofromation Visalization Project Breakdown: College Satisfaction
 
 ## Research Question: 
 What factors contribute to undergraduate's life satisfaction?
 
-## Factors to focus on:
+## Artifact Breakdown:
+- Data from kaggle (in data folder) importd into filteringData.ipynb
+- filteringData.ipynb removed areas we were not interested in using (see Primary Factors below)
+- filteringData.ipynb final dataframe exported as csv into ClenData.csv file
+- Each iteration of Design Process in seperate python notebook. Three iterations were done in this project (see iterations below).
+
+## Primary factors:
  - Year of Study
  - Primary Programme
  - Gender
@@ -11,31 +17,19 @@ What factors contribute to undergraduate's life satisfaction?
  - Housing Type
  - Q2-How many events have you Participated in ?
  - Q5-What are your levels of streess ?
- - **Q6-How Satisfied You are with your Student Life ?** (y-axis)
+ - **Q6-How Satisfied You are with your Student Life ?** (y-axis, main focus)
  - Q7-How much effort do you make to intereact with others ?
-
-Columns Removed from Dataframe:
- - Career
- - Citizenship
- - Nationality
- - Year since Matriculation
- - Q1-How many events have you Voulnteered in ?
- - Q3-How many activities are you Interested in ?
- - Q4-How many activities are you Passionate about ?
- - Q8-About How events are you aware about ?
- - response_id
- - Q9-What is an ideal student life ?
 
 ### Iteration I:
  - Gender
  - Primary Programe
  - Year
 
-### Iteration II (Cynthia):
+### Iteration II:
  - Department
  - Housing
  
- ### Iteration III (Cynthia):
+ ### Iteration III:
   - Q5 Stress Levels
   - Q7 Interaction
   - Q2 Participation
