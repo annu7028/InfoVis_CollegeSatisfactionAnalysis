@@ -17,7 +17,7 @@ What factors contribute to undergraduate's life satisfaction?
  - Housing Type
  - Q2-How many events have you Participated in ?
  - Q5-What are your levels of streess ?
- - **Q6-How Satisfied You are with your Student Life ?** (y-axis, main focus)
+ - Q6-How Satisfied You are with your Student Life ?
  - Q7-How much effort do you make to intereact with others ?
 
 ### Iteration I:
